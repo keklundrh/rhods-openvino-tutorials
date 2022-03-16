@@ -1,1 +1,1 @@
-# rhods-openvino-tutorials
+# Red Hat OpenShift Data Science - Intel OpenVINO Tutorials
