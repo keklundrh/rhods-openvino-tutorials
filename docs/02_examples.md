@@ -18,15 +18,23 @@ Additionally, we provide links (below) to Intel's detailed documentation for exa
 
 ## Person Detection 
 
+![openvino-111](./assets/img/examples/openvino-111.png)
+
+Select the "111-detection-quantization" folder after "openvino_notebooks" and open the "111-detection-quantization.ipynb" notebook. 
+The tutorial will prepare your environment, download the model, quantize it, and compare the model to the quantized version.
 
 *Click [here](https://docs.openvino.ai/latest/notebooks/111-detection-quantization-with-output.html) for Intel's documentation*
 
 ## Speech to Text 
 
+Select the "211-speech-to-text" folder after "openvino_notebooks" and open the "211-speech-to-text.ipynb" notebook. 
+The tutorial will prepare your environment, download the model, quantize it, and compare the model to the quantized version.
 
 *Click [here](https://docs.openvino.ai/latest/notebooks/211-speech-to-text-with-output.html) for Intel's documentation*
 
 ## Optical Character Recognition (OCR) 
 
+Select the "208-optical-character-recognition" folder after "openvino_notebooks" and open the "208-optical-character-recognition.ipynb" notebook. 
+The tutorial will prepare your environment, download the model, quantize it, and compare the model to the quantized version.
 
 *Click [here](https://docs.openvino.ai/latest/notebooks/208-optical-character-recognition-with-output.html) for Intel's documentation*
