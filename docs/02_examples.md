@@ -16,7 +16,9 @@ For now, let's focus on the following three examples:
 Follow the instructions below to run each OpenVINO example with Red Hat OpenShift Data Science.
 Additionally, we provide links (below) to Intel's detailed documentation for example example. 
 
-## Person Detection 
+## Examples 
+
+### Person Detection 
 
 ![openvino-111](./assets/img/examples/openvino-111.png)
 
@@ -25,7 +27,7 @@ The tutorial will prepare your environment, download the model, quantize it, and
 
 *Click [here](https://docs.openvino.ai/latest/notebooks/111-detection-quantization-with-output.html) for Intel's documentation*
 
-## Speech to Text 
+### Speech to Text 
 
 ![openvino-211](./assets/img/examples/openvino-211.png)
 
@@ -34,7 +36,7 @@ The tutorial will prepare your environment, download the model, quantize it, and
 
 *Click [here](https://docs.openvino.ai/latest/notebooks/211-speech-to-text-with-output.html) for Intel's documentation*
 
-## Optical Character Recognition (OCR) 
+### Optical Character Recognition (OCR) 
 
 ![openvino-208](./assets/img/examples/openvino-208.png)
 
@@ -42,3 +44,8 @@ Select the "208-optical-character-recognition" folder after "openvino_notebooks"
 The tutorial will prepare your environment, download the model, quantize it, and compare the model to the quantized version.
 
 *Click [here](https://docs.openvino.ai/latest/notebooks/208-optical-character-recognition-with-output.html) for Intel's documentation*
+## Navigation 
+
+* [Welcome - Intel OpenVINO Tutorials Red Hat OpenShift Data Science](00_index.md)
+* [Install OpenVINO to Red Hat OpenShift Data Science](01_install.md) 
+* [OpenVINO Examples](02_examples.md) - **(you are here)**
