@@ -53,7 +53,22 @@ Intel OpenVINO offers an embedded notebook experience.
 We access their software through Jupyter Notebooks.
 To get started, please click "Launch application" on the JupyterHub tile.
 
-Next steps: [try some OpenVINO examples](02_examples.md)
+![jupyter-launcher](./assets/img/jupyter-launcher.png) 
+
+"Launch application" opens the notebook spawner. 
+Simply select "OpenVINO Toolkit" from the list of notebook images.
+These embedded notebooks are provided by Red Hat OpenShift Data Science and enabled partner components. 
+
+Next, select an appropriate container size from the "Deployment size" drop down. 
+You will see a list of pre-configured image sizes.
+These, of course, are customizable. 
+You also have the ability to add environment variables. 
+You can add key-value pairs by clicking "Add more variables". 
+This is particularly useful when passing moderately sensitive information, like host names, etc., into your environment. 
+
+Lastly, click "Start Server" when you're ready to launch your notebook!
+
+Continue to the next step: [try some OpenVINO examples](02_examples.md)
 
 ## Navigation 
 
