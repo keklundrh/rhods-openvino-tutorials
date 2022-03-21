@@ -3,9 +3,12 @@
 
 Please continue onto [tutorial examples](02_examples.md) if OpenVINO is already enabled in Red Hat OpenShift Data Science.
 
+**Install OpenVINO one of two ways:**
+* [From the Red Hat OpenShift Data Science Dashboard - (preferred)](#install-using-red-hat-openshift-data-science-dashboard)
+* [OperatorHub](#install-using-operatorhub-from-the-openshift-dedicated-dashboard)
 <!-- or you are using the sandbox cluster (future) -->
 
-## Install using Red Hat OpenShift Data Science Dashboard (Preferred)
+## Install using Red Hat OpenShift Data Science Dashboard
 
 Installing integrated partner software is extremely easy within the Red Hat OpenShift Data Science dashboard. 
 
@@ -51,3 +54,9 @@ We access their software through Jupyter Notebooks.
 To get started, please click "Launch application" on the JupyterHub tile.
 
 Next steps: [try some OpenVINO examples](02_examples.md)
+
+## Navigation 
+
+* [Welcome - Intel OpenVINO Tutorials Red Hat OpenShift Data Science](00_index.md)
+* [Install OpenVINO to Red Hat OpenShift Data Science](01_install.md) - **(you are here)**
+* [OpenVINO Examples](02_examples.md)

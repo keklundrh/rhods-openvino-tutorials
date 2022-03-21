@@ -45,6 +45,6 @@ Additionally, Red Hat OpenShift Data Science runs on Intel hardware. Consider us
 
 ## Navigation 
 
-* [Welcome - Intel OpenVINO Tutorials Red Hat OpenShift Data Science](00_index.md)
+* [Welcome - Intel OpenVINO Tutorials Red Hat OpenShift Data Science](00_index.md) - **(you are here)**
 * [Install OpenVINO to Red Hat OpenShift Data Science](01_install.md)
 * [OpenVINO Examples](02_examples.md)
