@@ -7,8 +7,8 @@ The OpenVINO team provides tutorials to get you started with OpenVINO on Red Hat
 
 Simply select "openvino_notebooks" from the file explorer on the left. 
 
-There are 25-30 examples to choose from! 
-For now, let's focus on the following three examples: 
+**There are 25-30 examples to choose from! 
+For now, let's focus on the following three examples:** 
 * [Person Detection](#person-detection)
 * [Speech to Text](#speech-to-text)
 * [Optical Character Recognition](#optical-character-recognition)
