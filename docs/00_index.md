@@ -17,16 +17,12 @@ In this collection of tutorials, you will learn about:
 5. and see it in action with a few examples. 
 -->
 
-## Navigation 
 
-* [Red Hat OpenShift Data Science - Intel OpenVINO Tutorials](index.md)
-* [Intel OpenVINO Overview](overview.md)
-* [Install OpenVINO to Red Hat OpenShift Data Science](install.md)
-* examples 
+## Intel OpenVINO Overview 
 
-# Intel OpenVINO Overview 
+Jump to [installation](01_install.md) or [tutorials](02_examples.md) instead.
 
-## Introduction 
+### Introduction 
 
 Intel OpenVINO optimizes our models to get the most performance possible without significant accuracy sacrifices. In other words, it optimizes your model's predictions for the *intended Intel inference device*. It eliminates the discrepancy between high-end hardware used in training and low-end, constrained deployment devices. Instead of making large accuracy sacrifices for adequate performance, OpnVINO *optimizes performance* by reducing precision with *minimal changes to accuracy*, a process called *quantization*. 
 
@@ -34,15 +30,21 @@ For example, a double precision representation of pi is *3.141592653589793* whil
 
 Additionally, Red Hat OpenShift Data Science runs on Intel hardware. Consider using OpenVINO as your default serving engine.
 
-## How it works 
+### How it works 
 
 
-## Optimization details 
+### Optimization details 
 
 
-## Benefits 
+### Benefits 
 
 
-## References 
+### References 
 
 * [OpenVINO Docs](https://docs.openvino.ai/latest/index.html)
+
+## Navigation 
+
+* [Welcome - Intel OpenVINO Tutorials Red Hat OpenShift Data Science](00_index.md)
+* [Install OpenVINO to Red Hat OpenShift Data Science](01_install.md)
+* [OpenVINO Examples](02_examples.md)

@@ -1,7 +1,7 @@
 
 # Install Intel OpenVINO to Red Hat OpenShift Data Science 
 
-Please continue onto [tutorial examples](examples.md) if OpenVINO is already enabled in Red Hat OpenShift Data Science.
+Please continue onto [tutorial examples](02_examples.md) if OpenVINO is already enabled in Red Hat OpenShift Data Science.
 
 <!-- or you are using the sandbox cluster (future) -->
 
@@ -50,4 +50,4 @@ Intel OpenVINO offers an embedded notebook experience.
 We access their software through Jupyter Notebooks.
 To get started, please click "Launch application" on the JupyterHub tile.
 
-Next steps: [try some OpenVINO examples](examples.md)
+Next steps: [try some OpenVINO examples](02_examples.md)
