@@ -27,12 +27,16 @@ The tutorial will prepare your environment, download the model, quantize it, and
 
 ## Speech to Text 
 
+![openvino-211](./assets/img/examples/openvino-211.png)
+
 Select the "211-speech-to-text" folder after "openvino_notebooks" and open the "211-speech-to-text.ipynb" notebook. 
 The tutorial will prepare your environment, download the model, quantize it, and compare the model to the quantized version.
 
 *Click [here](https://docs.openvino.ai/latest/notebooks/211-speech-to-text-with-output.html) for Intel's documentation*
 
 ## Optical Character Recognition (OCR) 
+
+![openvino-208](./assets/img/examples/openvino-208.png)
 
 Select the "208-optical-character-recognition" folder after "openvino_notebooks" and open the "208-optical-character-recognition.ipynb" notebook. 
 The tutorial will prepare your environment, download the model, quantize it, and compare the model to the quantized version.
