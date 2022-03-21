@@ -9,9 +9,9 @@ Simply select "openvino_notebooks" from the file explorer on the left.
 
 There are 25-30 examples to choose from! 
 For now, let's focus on the following three examples: 
-* Person Detection 
-* Speech to Text 
-* Optical Character Recognition (OCR)
+* [Person Detection](#person-detection)
+* [Speech to Text](#speech-to-text)
+* [Optical Character Recognition](#optical-character-recognition)
 
 Follow the instructions below to run each OpenVINO example with Red Hat OpenShift Data Science.
 Additionally, we provide links (below) to Intel's detailed documentation for example example. 
@@ -36,7 +36,7 @@ The tutorial will prepare your environment, download the model, quantize it, and
 
 *Click [here](https://docs.openvino.ai/latest/notebooks/211-speech-to-text-with-output.html) for Intel's documentation*
 
-### Optical Character Recognition (OCR) 
+### Optical Character Recognition
 
 ![openvino-208](./assets/img/examples/openvino-208.png)
 
