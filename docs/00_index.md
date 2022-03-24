@@ -7,7 +7,7 @@ Welcome!
 
 In this collection of tutorials, you will learn about:
 
-![openvino-icon](assets/img/openvino-logo.png)
+![openvino-icon](assets/img/index/openvino-logo.png)
 
 <!-- write this up in paragraph form with icons and other images
 1. Intel OpenVINO Overview (including benefits)
